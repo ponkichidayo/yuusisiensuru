@@ -1,0 +1,23 @@
+.header-left{
+  float:left;
+}
+.header-right{
+  float:right
+}
+header{
+  height: 65px
+
+}
+.main{
+  height:580px
+  background-image:url(brothers-4894710_1920.jpg)
+}
+.container{
+  width:100%;
+}
+.heading h2{
+  background-color: blue;
+  color:white;
+  margin:0 auto;
+
+}
